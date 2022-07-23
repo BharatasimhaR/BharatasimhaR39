@@ -51,10 +51,3 @@
 [![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Metro_Ticketing&theme=blue-green)](https://github.com/padalakiran/Metro_Ticketing)
 [![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Bank_Management_System_For_Admin&theme=blue-green)](https://github.com/padalakiran/Bank_Management_System_For_Admin)
 </br>
- - 📈 Stats
-
-</br>
-
- ![Padala Kiran Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=padalakiran&theme=chartreuse-dark)
- ![Padala Kiran Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=padalakiran&theme=chartreuse-dark) &nbsp;
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padalakiran&layout=compact&theme=chartreuse-dark)
