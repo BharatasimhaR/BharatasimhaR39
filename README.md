@@ -47,6 +47,6 @@
  - 💻 Some of My Best Works 
  </br>
  
-[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=Metro_Ticketing&theme=blue-green)](https://github.com/BharatasimhaR39/metro-ticketing)
-[![Bank Admin system](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=Bank Admin system&theme=blue-green)](https://github.com/BharatasimhaR39/bank-admin-system)
+[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=metro-ticketing&theme=blue-green)](https://github.com/BharatasimhaR39/metro-ticketing)
+[![Bank Admin system](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=bank-admin-system&theme=blue-green)](https://github.com/BharatasimhaR39/bank-admin-system)
 </br>
