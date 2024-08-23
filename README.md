@@ -49,5 +49,6 @@
  
 [![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=metro-ticketing&theme=blue-green)](https://github.com/BharatasimhaR39/metro-ticketing)
 [![Bank Admin system](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=bank-admin-system&theme=blue-green)](https://github.com/BharatasimhaR39/bank-admin-system)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatasimhaR&layout=compact&theme=vision-friendly-dark)]
 </br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=BharatasimhaR&layout=compact&theme=vision-friendly-dark
+
