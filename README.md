@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=padalakiran&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=BharatasimhaR&color=brightgreen)
 ## 👋 Hi, I’m Avula Bharatasimha Reddy    </br>     &nbsp; &nbsp; &nbsp; full stack web  Developer
 <img align="right" width="500" height="550" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
   
@@ -50,3 +50,4 @@
 [![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=metro-ticketing&theme=blue-green)](https://github.com/BharatasimhaR39/metro-ticketing)
 [![Bank Admin system](https://github-readme-stats.vercel.app/api/pin/?username=BharatasimhaR39&repo=bank-admin-system&theme=blue-green)](https://github.com/BharatasimhaR39/bank-admin-system)
 </br>
+https://github-readme-stats.vercel.app/api/top-langs/?username=BharatasimhaR&layout=compact&theme=vision-friendly-dark
